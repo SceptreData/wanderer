@@ -32,6 +32,9 @@ const App = () => (
 export default App;
 
 const TravelApp = styled(IonApp)`
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
   --ion-background-color: #eae7dc;
   --ion-text-color: #8e8d8a;
   --ion-font-family: "Heebo", -apple-system, BlinkMacSystemFont,
