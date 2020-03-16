@@ -74,7 +74,7 @@ const PostItem = ({ post }) => {
       </IonThumbnail>
 
       <IonLabel>
-        <h3>{title}</h3>
+        <h3 style={{ fontSize: "1.25rem" }}>{title}</h3>
         <StyledDate>{date}</StyledDate>
         <Text dangerouslySetInnerHTML={{ __html: excerpt }} />
       </IonLabel>
