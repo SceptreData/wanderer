@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 const typeScale = {
-  h1: "3.415rem",
-  h2: "3.052rem",
+  h1: "2.8rem",
+  h2: "2.67rem",
   h3: "2.441rem",
   h4: "1.953rem",
   h5: "1.25rem",
